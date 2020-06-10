@@ -20,4 +20,8 @@ Things accomplished
 6. Choosing appropriate accuracy metric
 7. Trainin using many ML models
 
+Please email me for the feature engineering training and testing datasets.
+
+Thank you for visiting! :)
+
 
